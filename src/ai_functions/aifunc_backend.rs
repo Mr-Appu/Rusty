@@ -11,7 +11,7 @@ pub fn print_backend_webserver_code(_project_description_and_template: &str) {
     ///   reqwest, serde, serde_json, tokio, actix-web, async-trait, actix_cors
     /// No other external libraries should be used. Write functions that fit with the description from the PROJECT_DESCRIPTION
     /// OUTPUT: Print ONLY the code, nothing else. This function ONLY prints code.
-    OUTPUT
+    RUST_CODE
 }
 
 #[ai_function]

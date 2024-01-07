@@ -60,8 +60,7 @@ Function: fn function_name(input) { // Comments specifying what the code will ou
 Instruction: Given the input: [YOUR_INPUT], output what the above code outputs.
 ```
 
-We are prompting the model to output the actual result of the function. However, the function contains only commands. <br>
-Therefore, models with high reasoning are required for this project.
+We are prompting the model to output the actual result of the function. However, the function contains only commands. Therefore, models with high reasoning are required for this project.
 
 ## Observations
 
